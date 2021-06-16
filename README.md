@@ -10,4 +10,4 @@ inbuilt module Tkinter to build the application.
 
 Requirements :
 requests module
-pip install requests
+(Run - pip install requests)
